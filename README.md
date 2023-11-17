@@ -37,7 +37,7 @@ The portfolio allows visitors to explore the developer's projects, bio, contact 
 ## Links 
 [Github](https://github.com/sunainaojha/React-Portfolio)
 
-[live UrL]()
+[Deployed In Netlify](https://main--neon-nougat-e3e9ca.netlify.app/)
 
 
 
