@@ -12,7 +12,7 @@ The portfolio allows visitors to explore the developer's projects, bio, contact 
 - **Navigation Titles:** About Me, Work, Contact,  highlighting the current section.
 - **Dynamic Sections:** Displayed based on the selected navigation title.
 - **Default Selection:** Loads with the About Me section selected by default.
-- **Home Section:** Includes a recent photo/avatar and a brief bio of the developer.
+- **Home Section:** Includes a recent photo/avatar and a brief bio.
 - **Contact Section:** Provides a medium of contact
 - **Work section:** It includes the project/work i recently did.
 
