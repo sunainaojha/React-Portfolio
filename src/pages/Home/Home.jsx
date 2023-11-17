@@ -11,14 +11,14 @@ export default function Home() {
     display: 'flex',
     justifyContent: 'flex-end',
     alignItems: 'flex-start', // Align items to the top
-    height: '100vh',
+    height: '200vh',
 
 
   };
 
   const imageContainer = {
     flex: '1', // Make the image container take up one-third of the available space
-    marginRight: '20px', // Add space between image and content
+    marginRight: '200px', // Add space between image and content
   };
 
   const contentContainer = {
@@ -28,20 +28,20 @@ export default function Home() {
     borderRadius: '10px',
     boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',
     maxWidth: '800px', // Adjust content width
-   
-  
+
+
   };
 
   const imageStyle = {
     width: '200%', // Make the image fill its container
-    maxWidth: '1000px', // Adjust image width
+    maxWidth: '800px', // Adjust image width
     //borderRadius: '10px',
     boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',
     borderRadius: '50%',
-            marginBottom: '20px',
+    marginBottom: '20px',
   };
 
-  
+
 
   return (
     <div style={containerStyle}>
@@ -52,9 +52,13 @@ export default function Home() {
           style={imageStyle}
         />
       </div>
+
+
       <div style={contentContainer}>
-      <h1 className="title">Welcome to My Portfolio</h1>
-      <p style={{ fontSize: '1.5rem', marginBottom: '20px' , fontStyle:'oblique' }}>
+
+
+        <h1 className="title" style={{ fontSize: '2rem', color: 'orange', borderTop: '2px solid orange' }}>Welcome to My Portfolio</h1>
+        <p style={{ fontSize: '1.5rem', marginBottom: '20px', fontStyle: 'oblique' }}>
           I'm Sunaina Ojha, a passionate full-stack developer. My goal is to craft efficient and innovative software solutions and contribute meaningfully to the tech industry.
         </p>
         <p style={{ fontSize: '2.3rem', fontStyle: 'italic' }}>

@@ -43,7 +43,7 @@ export default function About() {
         I am wholeheartedly committed to pursuing a career in software development, as it presents a unique opportunity for me to leverage my extensive management experience, coupled with my technical acumen. I am excited about the boundless possibilities this field offers and eagerly look forward to contributing to the advancement of technology-driven solutions.
       </p>
       <p style={textStyle}>
-        Feel free to contact me via email at <a href="mailto:youremail@example.com" style={linkStyle}>youremail@example.com</a>.
+        Feel free to contact me via email at <a href="mailto:sunainaojha1242@gmail.com" style={linkStyle}>youremail@example.com</a>.
       </p>
     </div>
   );
