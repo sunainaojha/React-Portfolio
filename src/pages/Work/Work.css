@@ -1,0 +1,54 @@
+/* Work.css */
+.work {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .projects {
+    position: relative; /* Set container to relative positioning */
+    width: 100%; /* Ensure the container covers the entire space */
+  }
+  
+  .project-card {
+    position: absolute; /* Set project cards to absolute positioning */
+    width: 30%; /* Adjust the width of each card */
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  /* Styles for individual cards */
+  .project-card:nth-child(1) {
+    left: 0; /* Position the first card to the left */
+  }
+  
+  .project-card:nth-child(2) {
+    left: 35%; /* Position the second card to the center */
+    transform: translateX(-50%); /* Adjust to center */
+  }
+  
+  .project-card:nth-child(3) {
+    right: 0; /* Position the third card to the right */
+  }
+  .project-card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center; /* Align text to the center */
+    /* Additional styling as needed */
+  }
+  
+  /* Target specific h2 elements for each project */
+  .project-card:nth-child(1) h2 {
+    color: red; /* Example: Change color for the first project's h2 */
+  }
+  
+  .project-card:nth-child(2) h2 {
+    color: blue; /* Example: Change color for the second project's h2 */
+  }
+  
+  .project-card:nth-child(3) h2 {
+    color: green; /* Example: Change color for the third project's h2 */
+  }

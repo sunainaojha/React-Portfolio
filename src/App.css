@@ -1,0 +1,22 @@
+#root {
+  background-image: url('./images/myImage');
+  background-position: cover;
+  background-position: center;
+  margin-bottom: 35rem;
+  color: white;
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  /* background-color: #053f29; */
+}
+
+
+
+.body {
+  /* background-image: url('src/images/keyboard-w-pen.jpg');
+  background-size: cover; 
+  background-position: center;  */
+  margin: 0;
+  padding: 0;
+}

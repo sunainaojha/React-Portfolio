@@ -1,0 +1,8 @@
+.title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #ff6600; /* Orange color for the title */
+    font-weight: bold; /* Bold font weight */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Text shadow for emphasis */
+  }
