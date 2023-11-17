@@ -61,9 +61,9 @@ export default function Home() {
       <div style={contentContainer}>
 
 
-        <h1 className="title" style={{ fontSize: '2rem', color: 'orange', borderTop: '2px solid orange' }}>Welcome to My Portfolio</h1>
+        <h1 className="title" style={{ fontSize: '2rem', color: 'orange', borderTop: '2px solid orange' }}>Sunaina Ojha</h1>
         <p style={{ fontSize: '2rem', marginBottom: '10px', fontStyle: 'inherit' }}>
-          I'm Sunaina Ojha, a passionate full-stack developer. My goal is to craft efficient and innovative software solutions and contribute meaningfully to the tech industry.
+          I'm a passionate full-stack developer. My goal is to craft efficient and innovative software solutions and contribute meaningfully to the tech industry.
         </p>
         <p style={{ fontSize: '2rem', fontStyle: 'italic' }}>
           With a dedication to problem-solving and a drive to create impactful solutions, I aim to push the boundaries of technology and make a difference in the digital world.
