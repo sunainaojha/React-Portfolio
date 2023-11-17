@@ -3,7 +3,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0;
+    padding: 2;
+    ;
   }
   
   .nav-item {
@@ -12,12 +13,12 @@
   
   .nav-link {
     text-decoration: none;
-    color: #555;
+    color: orange;
     font-size: 18px;
   }
   
   .nav-link.active {
-    color: #007bff; /* Change this to your desired active link color */
-    font-weight: bold;
-    /* You can add more styles for the active link */
+    color:orange; 
+    font-weight: bolder;
+  
   }
