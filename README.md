@@ -34,3 +34,16 @@ The portfolio allows visitors to explore the developer's projects, bio, contact 
 - HTML/CSS
 - JavaScript
 
+## Links 
+[Github](https://github.com/sunainaojha/React-Portfolio)
+
+[live UrL]()
+
+
+
+
+
+## Screenshots
+![screenshot1](./src/assets/images/screenshot1.png)
+![screenshot2](./src/assets/images/screenshot2.png)
+![screenshot3](./src/assets/images/screenshot3.png)
