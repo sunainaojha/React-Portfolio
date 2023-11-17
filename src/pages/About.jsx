@@ -6,14 +6,14 @@ export default function About() {
     padding: '20px',
     lineHeight: '1.6',
     textAlign: 'justify',
-    color: '#333', // Default text color
-    backgroundColor: '#ffcc99', // Orange background color
+    color: '#333', // 
+    backgroundColor: '#ffcc99',
   };
 
   const titleStyle = {
     fontSize: '2.5rem',
     marginBottom: '20px',
-    color: '#ff6600', // Orange color for title
+    color: '#ff6600', 
     textAlign: 'center',
     textTransform: 'uppercase',
   };
@@ -32,7 +32,7 @@ export default function About() {
 
   return (
     <div style={containerStyle}>
-      <h1 style={titleStyle}>Sunaina Ojha</h1>
+      <h1 style={titleStyle}>Welcome to my Portfolio</h1>
       <p style={textStyle}>
         My name is Sunaina Ojha, and I hail from the beautiful country of Nepal. With a background in management, I embarked on a new journey when I relocated to the United States in 2016. Due to personal circumstances, I made the decision to stay at home and focus on raising my daughter. During this time, I enrolled in a coding bootcamp at UNCC to pursue a career in the technology industry.
       </p>

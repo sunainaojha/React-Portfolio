@@ -6,24 +6,24 @@ export default function Contact() {
     padding: '20px',
     lineHeight: '1.6',
     textAlign: 'center',
-    color: '#333', // Default text color
-    backgroundColor: '#ffcc99', // Orange background color
+    color: '#333', 
+    backgroundColor: '#ffcc99', 
   };
 
   const titleStyle = {
     fontSize: '2.5rem',
     marginBottom: '20px',
-    color: '#ff6600', // Orange color for title
+    color: '#ff6600', 
     textTransform: 'uppercase',
     fontWeight: 'bold',
   };
 
   const linkStyle = {
     fontSize: '1.2rem',
-    color: '#007bff', // Blue color for links
+    color: '#007bff',
     textDecoration: 'none',
     fontWeight: 'bold',
-    margin: '0 5px', // Adjust space between links
+    margin: '0 5px', 
   };
 
   return (
